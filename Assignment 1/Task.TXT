@@ -1,0 +1,24 @@
+Data Visualization and Relation Finding
+Create a iPython notebook to Visualize and find relations between Reasons across categories.
+
+Deepankur Kansal · 16 Submissions
+
+Task Details
+This task is to create a simple visualization notebook and find relations between reasons.
+PS: Don't use title data and text data in your submission if you are a beginner.
+
+Expected Submission
+Imporing dataset and preprocessing column headers
+
+Preprocessing Dataset for null and string to convert all to a standard representation.
+
+Some Graphs Ideas :- Reason wise , Number of people wise,city data.
+
+Find some intuitive results like:
+(a) Is there a specific type(reason) of crime which has relation to another type(reason).
+(b) Is there a specific type(reason) of crime which leads to more number of people getting victimized per case?
+Please provide the graphs in support of (a) and (b).
+(c) Can you think of some ways of using text data in your analysis. Dont code this just write the ideas.
+
+Evaluation Criteria
+Preprocessing, Graph and Reasoning Quality.
